@@ -2,4 +2,4 @@
 
 
 
-new branch has push
+new branch has merged
