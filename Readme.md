@@ -2,4 +2,4 @@
 
 
 
-new branch has merged
+new branch has confilict resolved
