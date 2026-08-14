@@ -1,5 +1,5 @@
-#Mastering Githug
+#Mastering Github
 
 
 
-new branch has merged
+new branch has code pushed
