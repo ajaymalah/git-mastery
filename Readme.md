@@ -2,4 +2,4 @@
 
 
 
-new branch has deleted
+new branch has merged
